@@ -1,7 +1,7 @@
 # BattleCity
 Implementation *simple* BattleCity-like game
 
-![alt text](BattleCity/build/Screenshot_1.png)
+![alt text](BattleCity/build/screenshot.png)
 
 Overview
 
