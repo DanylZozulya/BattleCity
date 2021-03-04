@@ -1,8 +1,8 @@
 # BattleCity
 Implementation *simple* BattleCity-like game
-(please, see BattleCity (1985) game for a reference if you like - https://www.youtube.com/watch?v=MPsA5PtfdL0).
 
-Game reference - https://strategywiki.org/wiki/Battle_City/How_to_play
+![alt text](BattleCity/build/Screenshot_1.png)
+
 Overview
 
 Players control a tank and shoot projectiles to destroy enemy tanks around the playfield. The enemy tanks enter from the top of the screen and attempts to destroy the players base (represented on the screen as a phoenix symbol), as well as the player's tank itself. A level is completed when the player destroys 20 enemy tanks, but the game ends if the player's base is destroyed or the player loses all available lives. Note that the player can destroy the base as well, so the player can still lose even after all enemy tanks are destroyed.
